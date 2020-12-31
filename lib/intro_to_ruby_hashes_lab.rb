@@ -13,6 +13,6 @@ def pioneer
 end
 
 
-def id_hash_generator(number)
+#def id_hash_generator(number)
  { id: number }
-end
+#end
